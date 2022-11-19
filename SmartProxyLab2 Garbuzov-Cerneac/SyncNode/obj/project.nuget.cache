@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDx4dfNL5VSolrLFAU9jd9DW9NgabLhj/MK/0sxFYytbDj5qOGDDTeksNFZSpnNXF3UL+jtlkG+qq574BMMDSA==",
+  "success": true,
+  "projectFilePath": "D:\\pad\\SmartProxyLab2\\SyncNode\\SyncNode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anatoly\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\Anatoly\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
